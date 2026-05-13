@@ -1,6 +1,8 @@
 # VecCard: A Learned Cardinality Estimator for Predicate Filtering Queries on Vector Databases
 
-**VecCard** is a learned cardinality estimator for predicate filtering workloads in vector databases. It uses a query-driven Tree-LSTM model to encode table metadata and nested Boolean predicates, predicts result cardinalities for hybrid vector queries, and supports an EWC-based incremental learning workflow so the estimator can adapt to new data and query patterns without full retraining. The overall architecture is shown in [Fig. 1](Fig%201.pdf), which illustrates how training data construction, cardinality prediction, and optimizer integration work together in the VecCard pipeline.
+**VecCard** is a learned cardinality estimator for predicate filtering workloads in vector databases. It uses a query-driven Tree-LSTM model to encode table metadata and nested Boolean predicates, predicts result cardinalities for hybrid vector queries, and supports an EWC-based incremental learning workflow so the estimator can adapt to new data and query patterns without full retraining. The overall architecture is shown in Fig. 1, which illustrates how training data construction, cardinality prediction, and optimizer integration work together in the VecCard pipeline.
+
+![Fig. 1: VecCard architecture](Fig%201.png)
 
 ## Repository Layout
 
