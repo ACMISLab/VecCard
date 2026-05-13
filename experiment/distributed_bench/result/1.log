@@ -1,0 +1,67 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\main_distributed.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute job, concurrency: 1 total: 50 workloads start time: 2025-03-30 11:12:50
+sever start time: 1743304371
+查询执行时间：173.8507 seconds
+查询执行时间：170.6664 seconds
+查询执行时间：174.0223 seconds
+查询执行时间：174.3848 seconds
+查询执行时间：171.2968 seconds
+查询执行时间：174.5042 seconds
+查询执行时间：168.3509 seconds
+查询执行时间：169.6701 seconds
+查询执行时间：172.9018 seconds
+查询执行时间：172.5388 seconds
+查询执行时间：169.4072 seconds
+查询执行时间：171.7266 seconds
+查询执行时间：172.1043 seconds
+查询执行时间：176.4927 seconds
+查询执行时间：172.7413 seconds
+查询执行时间：174.1971 seconds
+查询执行时间：172.9140 seconds
+查询执行时间：172.8118 seconds
+查询执行时间：170.7583 seconds
+查询执行时间：172.6751 seconds
+查询执行时间：172.8909 seconds
+查询执行时间：172.0110 seconds
+查询执行时间：170.7379 seconds
+查询执行时间：172.7179 seconds
+查询执行时间：170.5750 seconds
+查询执行时间：176.9729 seconds
+查询执行时间：173.3266 seconds
+查询执行时间：173.4139 seconds
+查询执行时间：173.9136 seconds
+查询执行时间：174.8208 seconds
+查询执行时间：174.9636 seconds
+查询执行时间：175.8069 seconds
+查询执行时间：175.1426 seconds
+查询执行时间：173.8276 seconds
+查询执行时间：175.4558 seconds
+查询执行时间：173.3424 seconds
+查询执行时间：174.3515 seconds
+查询执行时间：170.7546 seconds
+查询执行时间：173.7502 seconds
+查询执行时间：171.6006 seconds
+查询执行时间：176.2818 seconds
+查询执行时间：174.2775 seconds
+查询执行时间：174.6406 seconds
+查询执行时间：169.9016 seconds
+查询执行时间：171.2801 seconds
+查询执行时间：170.1245 seconds
+查询执行时间：172.7564 seconds
+查询执行时间：172.8065 seconds
+查询执行时间：175.8076 seconds
+查询执行时间：169.8463 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：172.9223 seconds
+QPS：0.0058 job/second
+平均等待时间：4232.5468 seconds
+sever end time: 1743313017
+
+
+metrics_成功率: 1.0
+metrics_失败率: 0.0
+metrics_查询执行时间平均值: 172.9223 seconds
+metrics_QPS: 0.0058 

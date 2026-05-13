@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 4, 'timeout': 180}
+start execute queries, concurrency: 4 total: 50 workloads start time: 2025-02-16 17:25:20
+sever start time: 1739697920
+查询执行时间：79.0845 seconds
+查询执行时间：81.7719 seconds
+查询执行时间：82.3133 seconds
+查询执行时间：85.1088 seconds
+查询执行时间：86.0789 seconds
+查询执行时间：87.8961 seconds
+查询执行时间：92.0266 seconds
+查询执行时间：0.7404 seconds
+查询执行时间：0.0718 seconds
+查询执行时间：89.7901 seconds
+查询执行时间：88.2016 seconds
+查询执行时间：0.9198 seconds
+查询执行时间：89.5422 seconds
+查询执行时间：87.2027 seconds
+查询执行时间：95.7216 seconds
+查询执行时间：85.5233 seconds
+查询执行时间：89.7225 seconds
+查询执行时间：87.5039 seconds
+查询执行时间：87.5750 seconds
+查询执行时间：2.7279 seconds
+查询执行时间：85.0260 seconds
+查询执行时间：85.2793 seconds
+timeout
+查询执行时间：0.0890 seconds
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+成功率：0.4600
+超时率：0.5400
+total_queries: 23
+平均查询延迟：68.2573 seconds
+QPS：0.0147 queries/second
+平均等待时间：187.6934 seconds
+sever end time: 1739699616
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '9022', 'user': 'root', 'password': '123456', 'cpu': 24, 'memory': '32g', 'swap': -1}
+container is restart: dingodb_native
+
+container resource limit: dingodb_native
+
+The redundant files in the system have been deleted:
+Restart completed!!!
+
+Process finished with exit code 0

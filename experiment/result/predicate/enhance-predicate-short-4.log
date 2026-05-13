@@ -1,0 +1,70 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'short', 'workload_num': 50, 'concurrency': 4, 'timeout': 180}
+start execute queries, concurrency: 4 total: 50 workloads start time: 2025-01-23 19:30:39
+sever start time: 1737631839
+查询执行时间：21.8060 seconds
+查询执行时间：21.8050 seconds
+查询执行时间：21.8120 seconds
+查询执行时间：21.8210 seconds
+查询执行时间：26.4285 seconds
+查询执行时间：26.6507 seconds
+查询执行时间：27.3766 seconds
+查询执行时间：27.4990 seconds
+查询执行时间：26.5158 seconds
+查询执行时间：28.3158 seconds
+查询执行时间：28.3428 seconds
+查询执行时间：31.5236 seconds
+查询执行时间：27.7313 seconds
+查询执行时间：27.0231 seconds
+查询执行时间：28.4874 seconds
+查询执行时间：28.1695 seconds
+查询执行时间：27.4357 seconds
+查询执行时间：27.5872 seconds
+查询执行时间：29.9137 seconds
+查询执行时间：30.3813 seconds
+查询执行时间：28.7620 seconds
+查询执行时间：27.4704 seconds
+查询执行时间：29.7276 seconds
+查询执行时间：28.1000 seconds
+查询执行时间：27.3639 seconds
+查询执行时间：28.2009 seconds
+查询执行时间：27.1309 seconds
+查询执行时间：33.5596 seconds
+查询执行时间：26.6752 seconds
+查询执行时间：32.8711 seconds
+查询执行时间：28.6765 seconds
+查询执行时间：27.1266 seconds
+查询执行时间：28.3542 seconds
+查询执行时间：27.7522 seconds
+查询执行时间：27.3943 seconds
+查询执行时间：28.4206 seconds
+查询执行时间：28.1412 seconds
+查询执行时间：29.0715 seconds
+查询执行时间：27.6902 seconds
+查询执行时间：30.1601 seconds
+查询执行时间：27.5316 seconds
+查询执行时间：29.0986 seconds
+查询执行时间：28.9764 seconds
+查询执行时间：29.0636 seconds
+查询执行时间：30.0016 seconds
+查询执行时间：28.3162 seconds
+查询执行时间：28.1662 seconds
+查询执行时间：27.6693 seconds
+查询执行时间：24.7715 seconds
+查询执行时间：23.5694 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟(包含查询失败)：27.7288 seconds
+总QPS(包含查询失败)：0.0361 queries/second
+平均等待时间(包含查询失败)：156.8336 seconds
+sever end time: 1737632197
+CPU使用率：40.551851851875334 %
+内存使用量：600.236328125 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456'}
+master result: dingodb_enhance
+
+container result step1:

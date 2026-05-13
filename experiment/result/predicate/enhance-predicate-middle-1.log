@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'middle', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute queries, concurrency: 1 total: 50 workloads start time: 2025-01-23 20:11:37
+sever start time: 1737634297
+查询执行时间：18.0662 seconds
+查询执行时间：17.5715 seconds
+查询执行时间：17.6230 seconds
+查询执行时间：17.7724 seconds
+查询执行时间：17.8440 seconds
+查询执行时间：17.7979 seconds
+查询执行时间：17.8070 seconds
+查询执行时间：17.6091 seconds
+查询执行时间：18.0058 seconds
+查询执行时间：18.3170 seconds
+查询执行时间：17.7540 seconds
+查询执行时间：17.6920 seconds
+查询执行时间：17.9664 seconds
+查询执行时间：17.6578 seconds
+查询执行时间：17.6670 seconds
+查询执行时间：17.7251 seconds
+查询执行时间：17.7827 seconds
+查询执行时间：17.7260 seconds
+查询执行时间：17.7944 seconds
+查询执行时间：17.7820 seconds
+查询执行时间：17.7110 seconds
+查询执行时间：17.6849 seconds
+查询执行时间：17.7850 seconds
+查询执行时间：17.7597 seconds
+查询执行时间：17.9191 seconds
+查询执行时间：17.6421 seconds
+查询执行时间：18.2084 seconds
+查询执行时间：17.7350 seconds
+查询执行时间：17.6592 seconds
+查询执行时间：17.6712 seconds
+查询执行时间：17.7889 seconds
+查询执行时间：17.9060 seconds
+查询执行时间：17.8777 seconds
+查询执行时间：17.2421 seconds
+查询执行时间：17.8333 seconds
+查询执行时间：17.7326 seconds
+查询执行时间：17.7517 seconds
+查询执行时间：17.8070 seconds
+查询执行时间：18.3410 seconds
+发生错误: 'utf-8' codec can't decode byte 0xa1 in position 7: invalid start byte
+发生错误: Packet sequence number wrong - got 14 expected 1
+查询执行时间：19.1404 seconds
+查询执行时间：19.1907 seconds
+查询执行时间：18.0608 seconds
+查询执行时间：17.7934 seconds
+查询执行时间：17.8399 seconds
+查询执行时间：17.6568 seconds
+查询执行时间：17.8039 seconds
+查询执行时间：17.7634 seconds
+查询执行时间：17.6643 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟(包含查询失败)：17.8527 seconds
+总QPS(包含查询失败)：0.0560 queries/second
+平均等待时间(包含查询失败)：433.2380 seconds
+sever end time: 1737635172
+CPU使用率：12.687037037027963 %
+内存使用量：423.6171875 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456'}
+master result: dingodb_enhance
+
+container result step1:
+重启完毕
+
+Process finished with exit code 0

@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main.py
+{'workload_type': 'long', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute queries, concurrency: 1 total: 50 workloads start time: 2025-01-24 19:43:01
+sever start time: 1737718981
+查询执行时间：67.8919 seconds
+查询执行时间：58.4790 seconds
+查询执行时间：58.9680 seconds
+查询执行时间：58.9536 seconds
+查询执行时间：132.4739 seconds
+查询执行时间：131.5295 seconds
+查询执行时间：131.5686 seconds
+查询执行时间：64.0263 seconds
+查询执行时间：58.8908 seconds
+查询执行时间：65.6199 seconds
+查询执行时间：57.7084 seconds
+查询执行时间：59.0254 seconds
+查询执行时间：139.5066 seconds
+查询执行时间：58.4325 seconds
+查询执行时间：67.1139 seconds
+查询执行时间：131.4880 seconds
+查询执行时间：131.5829 seconds
+查询执行时间：57.9461 seconds
+查询执行时间：58.7808 seconds
+查询执行时间：131.7132 seconds
+查询执行时间：58.2389 seconds
+查询执行时间：141.4200 seconds
+查询执行时间：58.2812 seconds
+查询执行时间：65.1416 seconds
+查询执行时间：58.1193 seconds
+查询执行时间：59.1606 seconds
+查询执行时间：65.5471 seconds
+查询执行时间：131.3274 seconds
+查询执行时间：64.1591 seconds
+查询执行时间：64.8857 seconds
+查询执行时间：134.1543 seconds
+查询执行时间：58.3602 seconds
+查询执行时间：58.8249 seconds
+查询执行时间：58.8561 seconds
+查询执行时间：58.9966 seconds
+查询执行时间：58.8584 seconds
+查询执行时间：64.6069 seconds
+查询执行时间：65.4786 seconds
+查询执行时间：139.8045 seconds
+查询执行时间：65.1836 seconds
+查询执行时间：64.7104 seconds
+查询执行时间：58.2814 seconds
+查询执行时间：58.9223 seconds
+查询执行时间：133.3209 seconds
+查询执行时间：138.3936 seconds
+查询执行时间：131.1757 seconds
+查询执行时间：139.2340 seconds
+查询执行时间：64.6014 seconds
+查询执行时间：58.4488 seconds
+查询执行时间：58.8903 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：83.1417 seconds
+QPS：0.0120 queries/second
+平均等待时间：2025.5874 seconds
+sever end time: 1737723138
+CPU使用率：25.690719305539062 %
+内存使用量：2372.71875 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '9022', 'user': 'root', 'password': '123456'}
+master result: dingodb_native
+
+container result step1:
+重启完毕
+
+Process finished with exit code 0

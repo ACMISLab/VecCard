@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute queries, concurrency: 1 total: 50 workloads start time: 2025-02-17 15:05:13
+sever start time: 1739775913
+查询执行时间：18.8451 seconds
+查询执行时间：18.6656 seconds
+查询执行时间：18.6836 seconds
+查询执行时间：18.6204 seconds
+查询执行时间：18.9630 seconds
+查询执行时间：18.6045 seconds
+查询执行时间：18.7831 seconds
+查询执行时间：18.7045 seconds
+查询执行时间：18.5987 seconds
+查询执行时间：18.6032 seconds
+查询执行时间：18.9238 seconds
+查询执行时间：18.7519 seconds
+查询执行时间：18.5781 seconds
+查询执行时间：19.5059 seconds
+查询执行时间：19.3933 seconds
+查询执行时间：18.4520 seconds
+查询执行时间：18.6258 seconds
+发生错误: (5001, 'io.dingodb.store.api.transaction.exception.RegionSplitException: io.dingodb.sdk.common.DingoClientException$InvalidRouteTableException: Region(80029) epoch is not match, region_epoch(1_2) req_epoch(1_1)')
+查询执行时间：37.1838 seconds
+查询执行时间：37.5633 seconds
+查询执行时间：37.8994 seconds
+查询执行时间：37.1350 seconds
+查询执行时间：56.8411 seconds
+查询执行时间：37.1147 seconds
+查询执行时间：37.2101 seconds
+查询执行时间：37.6494 seconds
+查询执行时间：37.2965 seconds
+查询执行时间：37.0030 seconds
+查询执行时间：37.7580 seconds
+查询执行时间：37.3416 seconds
+查询执行时间：37.1331 seconds
+查询执行时间：37.4578 seconds
+查询执行时间：37.3434 seconds
+查询执行时间：37.3706 seconds
+查询执行时间：37.2697 seconds
+查询执行时间：37.1197 seconds
+查询执行时间：37.5855 seconds
+查询执行时间：37.1482 seconds
+查询执行时间：37.0572 seconds
+查询执行时间：37.8511 seconds
+查询执行时间：82.7771 seconds
+查询执行时间：37.2510 seconds
+查询执行时间：37.5134 seconds
+查询执行时间：55.8783 seconds
+查询执行时间：37.1365 seconds
+查询执行时间：37.5831 seconds
+查询执行时间：37.1829 seconds
+查询执行时间：37.4609 seconds
+查询执行时间：37.4448 seconds
+查询执行时间：74.9446 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：33.3838 seconds
+QPS：0.0300 queries/second
+平均等待时间：665.8794 seconds
+sever end time: 1739777569
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456', 'cpu': 24, 'memory': '32g', 'swap': -1}
+container is restart: dingodb_enhance
+
+container resource limit: dingodb_enhance
+
+The redundant files in the system have been deleted:
+Restart completed!!!
+
+Process finished with exit code 0

@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'short', 'workload_num': 50, 'concurrency': 2, 'timeout': 180}
+start execute queries, concurrency: 2 total: 50 workloads start time: 2025-01-23 19:18:55
+sever start time: 1737631135
+查询执行时间：19.9062 seconds
+查询执行时间：19.9082 seconds
+查询执行时间：19.7740 seconds
+查询执行时间：19.7780 seconds
+查询执行时间：21.5621 seconds
+查询执行时间：21.7094 seconds
+查询执行时间：22.1771 seconds
+查询执行时间：22.1520 seconds
+查询执行时间：21.8551 seconds
+查询执行时间：22.2649 seconds
+查询执行时间：22.2036 seconds
+查询执行时间：21.9140 seconds
+查询执行时间：21.7479 seconds
+查询执行时间：21.7559 seconds
+查询执行时间：22.3269 seconds
+查询执行时间：22.4697 seconds
+查询执行时间：21.8498 seconds
+查询执行时间：22.1288 seconds
+查询执行时间：21.7882 seconds
+查询执行时间：22.3682 seconds
+查询执行时间：21.5178 seconds
+查询执行时间：22.4885 seconds
+查询执行时间：22.2681 seconds
+查询执行时间：21.7720 seconds
+查询执行时间：21.3436 seconds
+查询执行时间：21.7180 seconds
+查询执行时间：22.2339 seconds
+查询执行时间：22.1838 seconds
+查询执行时间：21.8422 seconds
+查询执行时间：22.1975 seconds
+查询执行时间：21.5973 seconds
+查询执行时间：21.9566 seconds
+查询执行时间：21.7446 seconds
+查询执行时间：22.1668 seconds
+查询执行时间：22.3050 seconds
+查询执行时间：21.8838 seconds
+查询执行时间：21.5728 seconds
+查询执行时间：21.6289 seconds
+查询执行时间：22.1133 seconds
+查询执行时间：22.5992 seconds
+查询执行时间：22.1568 seconds
+查询执行时间：21.7310 seconds
+查询执行时间：21.4503 seconds
+查询执行时间：21.8190 seconds
+查询执行时间：21.7985 seconds
+查询执行时间：22.8545 seconds
+查询执行时间：21.7401 seconds
+查询执行时间：22.4255 seconds
+查询执行时间：21.7436 seconds
+查询执行时间：21.7446 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟(包含查询失败)：21.8048 seconds
+总QPS(包含查询失败)：0.0459 queries/second
+平均等待时间(包含查询失败)：259.7606 seconds
+sever end time: 1737631680
+CPU使用率：22.03148148146552 %
+内存使用量：436.287109375 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456'}
+master result: dingodb_enhance
+
+container result step1:
+重启完毕
+
+Process finished with exit code 0

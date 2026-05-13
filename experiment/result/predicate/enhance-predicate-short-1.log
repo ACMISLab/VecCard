@@ -1,0 +1,64 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+start execute queries, concurrency: 1 total: 50 workloads start time: 2025-01-23 19:02:10
+sever start time: 1737630130
+查询执行时间：17.1719 seconds
+查询执行时间：16.6067 seconds
+查询执行时间：17.8025 seconds
+查询执行时间：17.1000 seconds
+查询执行时间：17.0785 seconds
+查询执行时间：17.0721 seconds
+查询执行时间：17.1174 seconds
+查询执行时间：17.0708 seconds
+查询执行时间：17.0046 seconds
+查询执行时间：17.2265 seconds
+查询执行时间：17.0535 seconds
+查询执行时间：17.6644 seconds
+查询执行时间：17.3236 seconds
+查询执行时间：17.1491 seconds
+查询执行时间：17.0707 seconds
+查询执行时间：17.0712 seconds
+查询执行时间：17.4905 seconds
+查询执行时间：17.2050 seconds
+查询执行时间：17.1269 seconds
+查询执行时间：17.0263 seconds
+查询执行时间：17.6650 seconds
+查询执行时间：17.0739 seconds
+查询执行时间：17.0309 seconds
+查询执行时间：17.0552 seconds
+查询执行时间：17.0195 seconds
+查询执行时间：17.2237 seconds
+查询执行时间：17.0191 seconds
+查询执行时间：17.0149 seconds
+查询执行时间：17.1449 seconds
+查询执行时间：17.1059 seconds
+查询执行时间：17.2382 seconds
+查询执行时间：17.2848 seconds
+查询执行时间：17.0185 seconds
+查询执行时间：17.5567 seconds
+查询执行时间：17.0705 seconds
+查询执行时间：17.0418 seconds
+查询执行时间：17.1215 seconds
+查询执行时间：17.1585 seconds
+查询执行时间：17.2751 seconds
+查询执行时间：17.0887 seconds
+查询执行时间：17.0933 seconds
+查询执行时间：17.1140 seconds
+查询执行时间：17.1009 seconds
+查询执行时间：17.1659 seconds
+查询执行时间：17.1295 seconds
+查询执行时间：17.0558 seconds
+查询执行时间：17.0434 seconds
+查询执行时间：17.0190 seconds
+查询执行时间：17.0899 seconds
+查询执行时间：17.0759 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟(包含查询失败)：17.1505 seconds
+总QPS(包含查询失败)：0.0583 queries/second
+平均等待时间(包含查询失败)：420.5173 seconds
+sever end time: 1737630988
+CPU使用率：40.2613061573966 %
+内存使用量：261.541015625 Mb
+
+

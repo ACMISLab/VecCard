@@ -1,0 +1,67 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'long', 'workload_num': 50, 'concurrency': 10, 'timeout': 180}
+start execute queries, concurrency: 10 total: 50 workloads start time: 2025-01-23 23:25:03
+sever start time: 1737645903
+查询执行时间：41.0268 seconds
+查询执行时间：41.8606 seconds
+查询执行时间：42.8949 seconds
+查询执行时间：43.8929 seconds
+查询执行时间：44.4361 seconds
+查询执行时间：45.7162 seconds
+查询执行时间：47.0892 seconds
+查询执行时间：49.5995 seconds
+查询执行时间：50.8390 seconds
+查询执行时间：52.8499 seconds
+查询执行时间：48.1656 seconds
+查询执行时间：48.2426 seconds
+查询执行时间：51.7652 seconds
+查询执行时间：57.5135 seconds
+查询执行时间：56.1021 seconds
+查询执行时间：51.6546 seconds
+查询执行时间：54.3093 seconds
+查询执行时间：57.4393 seconds
+查询执行时间：55.0444 seconds
+查询执行时间：53.3358 seconds
+查询执行时间：38.3853 seconds
+查询执行时间：54.7211 seconds
+查询执行时间：47.0786 seconds
+查询执行时间：57.0272 seconds
+查询执行时间：54.2413 seconds
+查询执行时间：49.6261 seconds
+查询执行时间：52.7503 seconds
+查询执行时间：59.1836 seconds
+查询执行时间：54.6543 seconds
+查询执行时间：56.2976 seconds
+查询执行时间：53.5407 seconds
+查询执行时间：48.6273 seconds
+查询执行时间：47.9561 seconds
+查询执行时间：46.8485 seconds
+查询执行时间：56.7684 seconds
+查询执行时间：53.4502 seconds
+查询执行时间：51.4027 seconds
+查询执行时间：56.7652 seconds
+查询执行时间：52.7182 seconds
+查询执行时间：51.2100 seconds
+查询执行时间：53.2461 seconds
+查询执行时间：50.5192 seconds
+查询执行时间：45.8858 seconds
+查询执行时间：48.9942 seconds
+查询执行时间：57.4327 seconds
+查询执行时间：52.5779 seconds
+查询执行时间：43.8775 seconds
+查询执行时间：49.2782 seconds
+查询执行时间：51.6539 seconds
+查询执行时间：50.7750 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟(包含查询失败)：50.8254 seconds
+总QPS(包含查询失败)：0.0197 queries/second
+平均等待时间(包含查询失败)：100.1773 seconds
+sever end time: 1737646169
+CPU使用率：75.18238791665382 %
+内存使用量：816.427734375 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456'}

@@ -1,0 +1,1168 @@
+142
+27.0
+376
+245
+funny
+13.1
+347
+6.9
+288
+Thorndale
+459
+Largo
+72
+Phoenixville
+157
+West Berlin
+Boise
+Boothwyn
+Collingswood
+173
+31
+Brentwood
+194
+221
+New Port Richey
+253
+18.8
+16.7
+Aston
+322
+Evesham
+Mount Juliet
+46
+Thorofare
+294
+4.4
+195
+11.8
+191
+English
+268
+填空题
+Woodbury Heights
+2
+37.0
+<=
+24
+useful
+206
+Tierra Verde
+Mullica Hill
+293
+329
+12.6
+11.4
+Clementon
+14.6
+Newtown
+Odessa
+Antioch
+336
+2.6
+9.8
+Pennsville
+Seminole
+123
+Brandon
+326
+178
+Levittown
+Beech Grove
+145
+306
+Jamison
+CA
+Carmel
+Trevose
+Lawrence
+Franklin
+Saint Charles
+Gibbsboro
+Safety Harbor
+56
+338
+Sun Valley
+243
+9.9
+17.7
+12
+Fishers
+Burlington
+54
+186
+179
+Nashville
+100
+type
+277
+Shamong
+153
+146
+19.1
+310
+Coatesville
+Haddonfield
+Penns Grove
+Bryn Mawr
+156
+19.7
+334
+7.8
+East Saint Louis
+Saint Rose
+163
+19.5
+New Orleans
+High Ridge
+18.5
+Oldsmar
+Blackwood
+73
+85
+5.3
+Gilbertsville
+Mt. Laurel
+Greenfield
+Manayunk
+University City
+Lahaska
+West Deptford
+Sellersville
+Mascoutah
+137
+443
+272
+King of Prussia
+Vail
+400
+19.9
+Saint Albert
+Wilmington
+Edwardsville
+1
+8.4
+12.4
+332
+333
+290
+242
+15.7
+116
+227
+312
+Green Lane
+83
+Spring City
+15.5
+Haverford
+Spanish Springs
+18
+109
+30
+126
+Willow Grove
+Jefferson
+Haddon Township
+261
+258
+274
+295
+314
+319
+Schwenksville
+79
+Logan Township
+108
+98
+St. Charles
+113
+374
+Marana
+Abington
+177
+1.5
+251
+Lutz
+Boise City
+6.6
+40.0
+488
+128
+Ladue
+254
+20.0
+Turnersville
+Alton
+42.0
+Ewing
+Redington Shores
+271
+60
+Creve Coeur
+14.0
+8.6
+282
+6.8
+2.2
+8.8
+11.7
+IN
+Sappington
+Roslyn
+14.5
+Fenton
+Marlton
+Perkasie
+114
+Seffner
+Saint Louis
+AZ
+True
+Gallatin
+3.8
+5.9
+Voorhees
+Manchester
+Rockledge
+Old Hickory
+Gulfport
+175
+265
+437
+Glen Carbon
+65
+96
+Valrico
+27
+New Britain
+Pitman
+320
+263
+Shrewsbury
+134
+289
+2.8
+Belle Chasse
+Hockessin
+218
+Chesterfield
+284
+5.1
+7.2
+North Wales
+13.9
+90
+Huntingdon Valley
+Oro Valley
+14.3
+138
+)
+New Hope
+Pinellas Park
+Bordentown
+6
+River Ridge
+190
+6.4
+246
+Quakertown
+215
+单选题
+154
+Carneys Point
+238
+257
+0
+170
+161
+Arabi
+80
+MO
+Garnet Valley
+93
+Lafayette Hill
+Springfield
+20
+21
+519
+16.4
+11.9
+355
+West Chester
+110
+(
+340
+Lithia
+82
+136
+7.6
+Metairie
+15.0
+402
+4.0
+10.4
+Deptford
+4
+7
+Clayton
+22.0
+252
+13.4
+Haddon Heights
+Lumberton
+477
+Palmyra
+331
+2.3
+Magnolia
+Truckee
+12.3
+48
+236
+Harvey
+Lindenwold
+297
+183
+Overland
+8.9
+8.7
+Newport
+Upper Darby
+TAMPA
+7.3
+4.7
+133
+55.0
+North Redington Beach
+359
+Dresher
+Beaumont
+421
+107
+2.4
+OFallon
+dislikes
+St Pete Beach
+Fort Washington
+Collegeville
+141
+Lawrenceville
+IL
+187
+200
+Pontoon Beach
+11
+59
+Plant City
+62.0
+45.0
+Franklinville
+King Of Prussia
+Santa Barbara
+Ballwin
+3.0
+33.0
+9.4
+Wayne
+212
+Wyndmoor
+Berkeley
+286
+13.0
+Tampa
+385
+278
+9.5
+Pennsauken Township
+Plainfield
+201
+TRUE
+149
+Camby
+Maple Glen
+Riverton
+5.7
+259
+216
+328
+32.0
+Aldan
+Sicklerville
+283
+Sherwood Park
+112
+14.2
+Jenkintown
+47.0
+Kenner
+7.7
+Pleasant View
+120
+Summerland
+McCordsville
+Gloucester City
+Norwood
+Hatboro
+Lansdale
+St Albert
+3.9
+15.8
+160
+Madison
+Spring House
+176
+!=
+Whiteland
+16.3
+162
+Eddystone
+38.0
+324
+196
+Sun City Center
+155
+15.9
+Sahuarita
+Meridian
+30.0
+92
+28
+77
+325
+304
+408
+Westampton
+Folcroft
+228
+19.0
+75
+249
+51
+366
+6.7
+350
+16.0
+14.9
+Granite City
+15.2
+15
+Norristown
+219
+43
+281
+Saint Ann
+9.7
+53.0
+398
+159
+45
+5.5
+Tucson
+124
+Belleair Bluffs
+Claymont
+Saint Pete Beach
+14.4
+判断题
+Elmwood
+12.7
+18.9
+Upper Chichester
+104
+23.0
+Danville
+Wood River
+10.8
+49
+Horsham
+229
+Westville
+180
+Valley Park
+Mount Laurel
+Harahan
+13
+143
+10.6
+state
+Chadds Ford
+Morrisville
+41.0
+4.5
+9.1
+132
+135
+184
+Kirkwood
+San Antonio
+Glassboro
+Berwyn
+52.0
+11.1
+Sewell
+13.6
+58.0
+Philadelphia
+Glen Mills
+166
+388
+Mt Laurel
+Tuscon
+50.0
+Kenneth City
+Pottstown
+Fairview Heights
+Collingdale
+Ferguson
+Palmetto
+Apollo Beach
+NV
+129
+2.1
+Clifton Heights
+Frontenac
+Mantua
+57.0
+Port Richey
+Kulpsville
+Washington Crossing
+17.6
+10
+81
+193
+4.2
+FALSE
+46.0
+198
+17.3
+34
+260
+69
+405
+多选题
+7.9
+Pilesgrove
+FL
+PA
+2.0
+Glenside
+2.5
+34.0
+203
+19
+36.0
+167
+Runnemede
+234
+250
+12.8
+11.3
+230
+237
+14
+stars
+115
+Villanova
+Oakville
+299
+Chalmette
+303
+read
+298
+Croydon
+Media
+Florissant
+Kennett Square
+St. Pete Beach
+Richboro
+241
+Gloucester Township
+29
+9.3
+Eagleville
+Millstadt
+Souderton
+370
+174
+Folsom
+Oaklyn
+35
+369
+31.0
+16.6
+Ofallon
+122
+55
+41
+Hamilton Township
+Dublin
+267
+16.8
+=
+Malvern
+130
+16.1
+217
+47
+Williamstown
+Skippack
+Devon
+276
+233
+3.6
+Pennsauken
+360
+49.0
+Swedesboro
+Telford
+285
+23
+Avon
+Secane
+106
+352
+Harleysville
+Elmer
+330
+185
+6.1
+39.0
+308
+Spring Hill
+Bridgeport
+43.0
+Essington
+Oreland
+305
+Sharon Hill
+151
+4.6
+168
+262
+Clarksboro
+6.0
+28.0
+Paulsboro
+avgspend
+10.2
+10.9
+280
+4.3
+17.9
+Radnor
+Chester Springs
+Mount Ephraim
+158
+2.7
+cool
+226
+362
+292
+Garden City
+Chalfont
+375
+16.9
+Lawnside
+101
+16.5
+Caseyville
+39
+South Pasadena
+74
+172
+Goodlettsville
+Earth City
+213
+0.0
+0.8
+Indian Shores
+14.1
+15.6
+8.0
+8.1
+371
+5.4
+38
+Hazelwood
+9.2
+Cheltenham
+Carpinteria
+Clearwater Beach
+Whitestown
+city
+New Palestine
+125
+394
+17.4
+Salem
+3.5
+291
+Greenwood
+67
+Temple Terrace
+119
+144
+10.5
+Yeadon
+Eagle
+Pipersville
+248
+Hatfield
+Newark
+Drexel Hill
+Wenonah
+17.5
+17
+181
+94
+Laurel Springs
+3.1
+>
+232
+Woodstown
+Havertown
+358
+327
+Cherry Hill
+Mt Juliet
+AB
+58
+255
+279
+Glendora
+14.8
+Merion Station
+Gibbstown
+Swarthmore
+Richmond Heights
+10.1
+Woodlyn
+Chinese
+Paoli
+70
+7.4
+Christiana
+189
+42
+24.0
+Dade City
+211
+318
+4.1
+8.3
+210
+ID
+270
+17.2
+199
+Westchase
+Swansea
+Maryville
+Edgewater Park
+Zephyrhills
+Glenmoore
+381
+361
+Mount Holly
+Isla Vista
+Newtown Square
+44.0
+popular
+Virginia City
+365
+16
+2.9
+Holiday
+Colmar
+Noblesville
+Boyertown
+Columbus
+296
+10.3
+6.3
+32
+10.7
+Avondale
+86
+Cahokia
+309
+14.7
+Darby
+Speedway
+投票题
+13.2
+379
+389
+5
+15.1
+18.4
+Oaks
+likes
+Rock Hill
+Marcus Hook
+Warminster
+208
+Castleton
+Holland
+Trappe
+337
+48.0
+Moorestown
+NJ
+Collinsville
+LA
+311
+346
+380
+0.5
+11.0
+St Petersburg
+Mooresville
+99
+302
+8
+239
+50
+256
+18.6
+Arnold
+Feasterville Trevose
+Bellmawr
+202
+84
+223
+37
+Audubon
+64
+Hamilton
+25
+Brooklawn
+False
+St Louis
+19.6
+Feasterville
+Hainesport
+Ridley Park
+273
+Brownsburg
+Lebanon
+St Charles
+Hudson
+Maplewood
+Sparks
+102
+152
+6.2
+13.3
+53
+Treasure Is
+Exton
+51.0
+68
+score
+117
+Waterloo
+Fairless Hills
+Maple Shade Township
+182
+127
+188
+16.2
+266
+224
+Elkins Park
+12.1
+St. Petersburg
+Holmes
+Webster Groves
+100.0
+1.0
+Wimauma
+140
+368
+compliment
+Blue Bell
+Morton
+Wyncote
+17.8
+316
+Thonotosassa
+Bala Cynwyd
+Mt. Juliet
+Verdi
+Plymouth Meeting
+54.0
+222
+Delran
+323
+19.2
+Yardley
+313
+Mount Laurel Township
+52
+300
+Trooper
+118
+Town and Country
+220
+357
+13.8
+121
+Hammonton
+Frazer
+63
+148
+19.3
+62
+Perkiomenville
+Berlin
+favorites
+244
+Indianapolis
+225
+Buckingham
+131
+5.2
+Stowe
+367
+Malaga
+Penndel
+105
+19.4
+Evesham Township
+Green Valley
+22
+169
+East Alton
+White House
+Sunset Hills
+Gretna
+Conshohocken
+91
+287
+26.0
+11.6
+Medford
+147
+9.0
+Glenolden
+Brookhaven
+Feasterville-Trevose
+Greenbrier
+Wesley Chapel
+Merchantville
+95
+Joelton
+7.5
+9
+Hernando Beach
+Treasure Island
+Trenton
+78
+192
+301
+Stratford
+Southampton
+O Fallon
+321
+35.0
+21.0
+4.8
+Langhorne
+<
+Royersford
+Cinnaminson
+Wallingford
+Warrington
+Affton
+Kingston Springs
+Washington Township
+Bellevue
+Godfrey
+171
+341
+269
+Crestwood
+353
+345
+Trinity
+Ruskin
+Madeira Beach
+36
+231
+Bridgeton
+7.1
+12.9
+18.2
+Pennsburg
+339
+Goleta
+Tarpon Springs
+44
+Atco
+Somerdale
+La Vergne
+5.0
+214
+8.5
+11.2
+Erdenheim
+204
+Hendersonville
+275
+Narberth
+amount
+Dunedin
+76
+390
+8.2
+12.2
+Riverview
+Maryland Heights
+344
+Voorhees Township
+Bristol
+71
+139
+18.1
+207
+351
+5.8
+Maple Shade
+19.8
+Willingboro
+Monroe Township
+40
+9.6
+num
+18.0
+89
+235
+Ardmore
+Smyrna
+Flourtown
+343
+3.4
+12.5
+Prospect Park
+Ewing Township
+DE
+356
+435
+307
+407
+Ambler
+views
+3.2
+Beverly
+209
+East Norriton
+Westmont
+Olivette
+Imperial
+Woodbury
+240
+25.0
+Montecito
+247
+主观题
+Gladwyne
+Gibsonton
+Reno
+review
+Des Peres
+Terrytown
+5.6
+Camden
+416
+Dover
+Plumsteadville
+Lansdowne
+165
+language
+13.5
+33
+Deptford Township
+264
+348
+12.0
+3.3
+Troy
+17.1
+TN
+Bensalem
+Clearwater
+511
+Riverside
+Shiloh
+Palm Harbor
+Primos
+Saint Petersburg
+164
+Catalina
+66
+205
+Nolensville
+103
+Doylestown
+26
+111
+New Castle
+17.0
+472
+4.9
+Broomall
+Hermitage
+Belleville
+197
+383
+>=
+Zionsville
+Wynnewood
+18.3
+Downingtown
+Rosemont
+317
+10.0
+18.7
+Lambertville
+Ashland City
+Tampa Bay
+7.0
+15.3
+87
+Greenville
+Barrington
+88
+6.5
+Limerick
+Montgomeryville
+11.5
+Columbia
+Furlong
+Tabernacle
+Marrero
+St. Albert
+Edmonton
+3.7
+335
+57
+29.0
+Ivyland
+Pine Hill
+3
+455
+61
+Indian Rocks Beach
+378
+97
+56.0
+15.4
+Chester
+Land O Lakes
+13.7
+Westwego
+St. Louis
+315
+150

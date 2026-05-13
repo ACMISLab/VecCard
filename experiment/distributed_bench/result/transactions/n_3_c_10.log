@@ -1,0 +1,14 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\main_distributed.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 10, 'timeout': 180}
+start execute job, concurrency: 10 total: 50 workloads start time: 2025-04-08 08:08:42
+sever start time: 1744070922
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout
+timeout

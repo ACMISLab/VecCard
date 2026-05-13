@@ -1,0 +1,75 @@
+{
+  "database": {
+    "host": "127.0.0.1",
+    "port" : 1307,
+    "user" : "root",
+    "password" : "",
+    "db":  "dingo",
+    "table":"business",
+    "engine":"Txn_BTree",
+    "jvm_memory":"16g",
+    "partition": 16
+  },
+  "create":{
+    "vector_index":"flat",
+    "metric_type":"L2",
+    "dimension" : 768,
+    "hnsw": {
+      "efConstruction":64,
+      "links":32
+    },
+    "ivf_flat": {
+      "centroids":16
+    },
+    "ivf_pq": {
+      "centroids" : 256,
+      "subvector":8,
+      "nbitsPerIdx" : 8
+    },
+    "flat": {
+    }
+  },
+  "insert": {
+    "filePath" : "data/vector_dim/business_768dim.csv",
+    "batch_size": 500,
+    "start_index":128500,
+    "end_index": 150243
+  },
+  "select": {
+    "workload_type":"mix",
+    "workload_num": 50,
+    "concurrency" : 1,
+    "timeout": 180
+  },
+  "prometheus": {
+    "enable": false,
+    "host": "127.0.0.1",
+    "port": "19091",
+    "step": "30s",
+    "top_k": 20,
+    "bottom_k": 20
+  },
+  "ssh": {
+    "host": "127.0.0.1",
+    "port": "1022",
+    "user": "root",
+    "password": ""
+  },
+  "server": {
+    "master": {
+      "host": "127.0.0.1",
+      "port": "220",
+      "user": "root",
+      "password": ""
+    },
+    "container":{
+      "host": "127.0.0.1",
+      "port": "1022",
+      "user": "root",
+      "password": "",
+      "cpu": 16,
+      "memory": "20g",
+      "swap": -1
+    }
+  }
+}

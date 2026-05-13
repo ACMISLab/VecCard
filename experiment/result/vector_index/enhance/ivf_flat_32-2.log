@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 2, 'timeout': 180}
+start execute queries, concurrency: 2 total: 50 workloads start time: 2025-02-15 19:59:32
+sever start time: 1739620772
+查询执行时间：60.8402 seconds
+查询执行时间：63.2294 seconds
+查询执行时间：66.9480 seconds
+查询执行时间：65.6184 seconds
+查询执行时间：63.8266 seconds
+查询执行时间：67.7947 seconds
+查询执行时间：67.0832 seconds
+查询执行时间：64.3448 seconds
+查询执行时间：63.4489 seconds
+查询执行时间：1.0766 seconds
+查询执行时间：0.0478 seconds
+查询执行时间：63.9278 seconds
+查询执行时间：64.8352 seconds
+查询执行时间：0.5475 seconds
+查询执行时间：64.2047 seconds
+查询执行时间：64.1750 seconds
+查询执行时间：65.9137 seconds
+查询执行时间：63.5241 seconds
+查询执行时间：65.3279 seconds
+timeout
+查询执行时间：64.6253 seconds
+查询执行时间：1.7369 seconds
+查询执行时间：63.1242 seconds
+查询执行时间：64.7802 seconds
+查询执行时间：67.5558 seconds
+查询执行时间：0.4101 seconds
+查询执行时间：64.0271 seconds
+查询执行时间：64.7710 seconds
+查询执行时间：64.4711 seconds
+查询执行时间：65.8620 seconds
+查询执行时间：64.6136 seconds
+查询执行时间：0.5478 seconds
+查询执行时间：0.1545 seconds
+查询执行时间：0.1784 seconds
+查询执行时间：1.1088 seconds
+查询执行时间：0.0404 seconds
+查询执行时间：63.9352 seconds
+查询执行时间：66.7446 seconds
+查询执行时间：23.1468 seconds
+查询执行时间：1.2311 seconds
+查询执行时间：162.1130 seconds
+查询执行时间：61.6585 seconds
+查询执行时间：0.6654 seconds
+查询执行时间：63.1848 seconds
+查询执行时间：65.6364 seconds
+查询执行时间：65.1436 seconds
+查询执行时间：67.7640 seconds
+查询执行时间：65.8828 seconds
+查询执行时间：0.5208 seconds
+查询执行时间：58.9750 seconds
+成功率：0.9800
+超时率：0.0200
+total_queries: 49
+平均查询延迟：48.8025 seconds
+QPS：0.0205 queries/second
+平均等待时间：660.7626 seconds
+sever end time: 1739622078
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '9022', 'user': 'root', 'password': '123456', 'cpu': 24, 'memory': '32g', 'swap': -1}
+container is restart: dingodb_native
+
+container resource limit: dingodb_native
+
+The redundant files in the system have been deleted:
+Restart completed!!!
+
+Process finished with exit code 0

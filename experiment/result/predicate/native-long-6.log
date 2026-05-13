@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main.py
+{'workload_type': 'long', 'workload_num': 50, 'concurrency': 6, 'timeout': 180}
+start execute queries, concurrency: 6 total: 50 workloads start time: 2025-01-24 22:22:17
+sever start time: 1737728537
+查询执行时间：91.5671 seconds
+查询执行时间：95.1153 seconds
+查询执行时间：97.2266 seconds
+查询执行时间：139.9834 seconds
+timeout
+timeout
+查询执行时间：95.0785 seconds
+查询执行时间：132.2826 seconds
+timeout
+查询执行时间：139.8313 seconds
+查询执行时间：109.9957 seconds
+查询执行时间：122.0264 seconds
+查询执行时间：116.4069 seconds
+timeout
+查询执行时间：103.2348 seconds
+查询执行时间：157.4181 seconds
+查询执行时间：105.5311 seconds
+timeout
+timeout
+查询执行时间：108.7560 seconds
+timeout
+查询执行时间：126.8996 seconds
+查询执行时间：123.8063 seconds
+timeout
+查询执行时间：160.9778 seconds
+查询执行时间：116.6121 seconds
+查询执行时间：148.4009 seconds
+查询执行时间：138.2573 seconds
+查询执行时间：106.0609 seconds
+查询执行时间：141.3708 seconds
+timeout
+timeout
+查询执行时间：110.4260 seconds
+查询执行时间：120.9293 seconds
+查询执行时间：119.1763 seconds
+查询执行时间：116.9514 seconds
+查询执行时间：155.4995 seconds
+查询执行时间：157.2426 seconds
+查询执行时间：102.6919 seconds
+查询执行时间：136.6395 seconds
+timeout
+查询执行时间：136.7728 seconds
+查询执行时间：100.0618 seconds
+查询执行时间：99.2197 seconds
+查询执行时间：134.1896 seconds
+timeout
+timeout
+timeout
+timeout
+查询执行时间：88.1428 seconds
+成功率：0.7000
+超时率：0.3000
+total_queries: 35
+平均查询延迟：121.5652 seconds
+QPS：0.0082 queries/second
+平均等待时间：502.9138 seconds
+sever end time: 1737729736
+CPU使用率：68.66388888888414 %
+内存使用量：765.537109375 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '9022', 'user': 'root', 'password': '123456'}
+master result: dingodb_native
+
+container result step1:
+重启完毕
+
+Process finished with exit code 0

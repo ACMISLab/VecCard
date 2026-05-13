@@ -1,0 +1,67 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\main_distributed.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 2, 'timeout': 180}
+start execute job, concurrency: 2 total: 50 workloads start time: 2025-03-30 18:39:07
+sever start time: 1743331147
+查询执行时间：72.8186 seconds
+查询执行时间：73.7034 seconds
+查询执行时间：71.9832 seconds
+查询执行时间：72.0006 seconds
+查询执行时间：72.9531 seconds
+查询执行时间：73.3011 seconds
+查询执行时间：82.9794 seconds
+查询执行时间：93.2359 seconds
+查询执行时间：70.4720 seconds
+查询执行时间：83.2458 seconds
+查询执行时间：82.1734 seconds
+查询执行时间：82.5223 seconds
+查询执行时间：80.9911 seconds
+查询执行时间：80.4569 seconds
+查询执行时间：81.9801 seconds
+查询执行时间：71.3970 seconds
+查询执行时间：73.6811 seconds
+查询执行时间：72.4641 seconds
+查询执行时间：73.0185 seconds
+查询执行时间：72.4211 seconds
+查询执行时间：70.6327 seconds
+查询执行时间：81.8693 seconds
+查询执行时间：83.2581 seconds
+查询执行时间：85.2147 seconds
+查询执行时间：70.9177 seconds
+查询执行时间：71.0403 seconds
+查询执行时间：84.2028 seconds
+查询执行时间：83.5680 seconds
+查询执行时间：71.4708 seconds
+查询执行时间：84.1442 seconds
+查询执行时间：72.5691 seconds
+查询执行时间：70.9828 seconds
+查询执行时间：73.9649 seconds
+查询执行时间：71.8980 seconds
+发生错误: 'utf-8' codec can't decode byte 0xa1 in position 7: invalid start byte
+发生错误: Packet sequence number wrong - got 11 expected 1
+查询执行时间：71.7602 seconds
+查询执行时间：91.3451 seconds
+查询执行时间：77.9010 seconds
+发生错误: 'utf-8' codec can't decode byte 0xa8 in position 23: invalid start byte
+发生错误: Packet sequence number wrong - got 10 expected 1
+查询执行时间：100.2674 seconds
+查询执行时间：78.1001 seconds
+查询执行时间：76.8914 seconds
+查询执行时间：84.1732 seconds
+查询执行时间：81.6122 seconds
+查询执行时间：70.1014 seconds
+查询执行时间：80.5576 seconds
+查询执行时间：81.0811 seconds
+查询执行时间：79.4325 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：77.9729 seconds
+QPS：0.0128 job/second
+平均等待时间：911.5369 seconds
+sever end time: 1743333039
+
+
+metrics_成功率: 0.92
+metrics_失败率: 0.08
+metrics_查询执行时间平均值: 77.9729 seconds
+metrics_QPS: 0.0128 

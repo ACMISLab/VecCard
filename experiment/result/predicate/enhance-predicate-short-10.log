@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'short', 'workload_num': 50, 'concurrency': 10, 'timeout': 180}
+start execute queries, concurrency: 10 total: 50 workloads start time: 2025-01-23 20:05:41
+sever start time: 1737633941
+查询执行时间：39.9534 seconds
+查询执行时间：40.1614 seconds
+查询执行时间：42.8250 seconds
+查询执行时间：44.0074 seconds
+查询执行时间：44.5220 seconds
+查询执行时间：44.5526 seconds
+查询执行时间：47.3855 seconds
+查询执行时间：49.8586 seconds
+查询执行时间：54.6351 seconds
+查询执行时间：58.1651 seconds
+查询执行时间：46.3743 seconds
+查询执行时间：47.9946 seconds
+查询执行时间：55.8088 seconds
+查询执行时间：48.5278 seconds
+查询执行时间：54.4320 seconds
+查询执行时间：59.2608 seconds
+查询执行时间：57.7443 seconds
+查询执行时间：53.9881 seconds
+查询执行时间：52.4040 seconds
+查询执行时间：56.1803 seconds
+查询执行时间：50.4809 seconds
+查询执行时间：46.7087 seconds
+查询执行时间：50.9784 seconds
+查询执行时间：58.9580 seconds
+查询执行时间：56.4198 seconds
+查询执行时间：55.6232 seconds
+查询执行时间：56.8492 seconds
+查询执行时间：55.5043 seconds
+查询执行时间：52.7239 seconds
+查询执行时间：58.4753 seconds
+查询执行时间：51.8966 seconds
+查询执行时间：51.4213 seconds
+查询执行时间：45.7670 seconds
+查询执行时间：51.8654 seconds
+查询执行时间：53.1862 seconds
+查询执行时间：61.4100 seconds
+查询执行时间：52.7691 seconds
+查询执行时间：50.9893 seconds
+查询执行时间：52.0775 seconds
+查询执行时间：54.0989 seconds
+查询执行时间：52.3084 seconds
+查询执行时间：45.6879 seconds
+查询执行时间：53.1535 seconds
+查询执行时间：57.2480 seconds
+查询执行时间：53.5219 seconds
+查询执行时间：67.2958 seconds
+查询执行时间：65.4900 seconds
+查询执行时间：60.6878 seconds
+查询执行时间：53.8483 seconds
+查询执行时间：66.6930 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟(包含查询失败)：52.8584 seconds
+总QPS(包含查询失败)：0.0189 queries/second
+平均等待时间(包含查询失败)：101.4675 seconds
+sever end time: 1737634218
+CPU使用率：70.08148148151426 %
+内存使用量：1983.15234375 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456'}
+master result: dingodb_enhance
+
+container result step1:
+重启完毕
+
+Process finished with exit code 0

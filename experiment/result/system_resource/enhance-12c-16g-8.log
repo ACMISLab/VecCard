@@ -1,0 +1,32 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 8, 'timeout': 180}
+start execute queries, concurrency: 8 total: 50 workloads start time: 2025-01-30 19:45:43
+sever start time: 1738237543
+查询执行时间：38.6274 seconds
+查询执行时间：38.6254 seconds
+查询执行时间：38.6264 seconds
+查询执行时间：40.2244 seconds
+查询执行时间：40.7911 seconds
+查询执行时间：41.0400 seconds
+查询执行时间：41.3440 seconds
+查询执行时间：47.3581 seconds
+查询执行时间：73.7046 seconds
+查询执行时间：74.1838 seconds
+查询执行时间：75.5447 seconds
+查询执行时间：78.7756 seconds
+查询执行时间：76.8992 seconds
+查询执行时间：121.1526 seconds
+查询执行时间：60.6801 seconds
+查询执行时间：39.5438 seconds
+查询执行时间：37.2013 seconds
+查询执行时间：39.4494 seconds
+查询执行时间：37.7944 seconds
+timeout
+timeout
+timeout
+
+
+metrics_成功率: 0.38
+metrics_失败率: 0.62
+metrics_查询执行时间平均值: 54.8193 seconds
+metrics_QPS: 0.0182 

@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute queries, concurrency: 1 total: 50 workloads start time: 2025-02-15 17:43:39
+sever start time: 1739612619
+查询执行时间：57.3513 seconds
+查询执行时间：54.9444 seconds
+查询执行时间：58.1787 seconds
+查询执行时间：65.0363 seconds
+查询执行时间：65.3684 seconds
+查询执行时间：64.5672 seconds
+查询执行时间：58.3213 seconds
+查询执行时间：64.9587 seconds
+查询执行时间：65.5132 seconds
+查询执行时间：60.6661 seconds
+查询执行时间：0.6408 seconds
+查询执行时间：0.0453 seconds
+查询执行时间：63.7032 seconds
+查询执行时间：62.5417 seconds
+查询执行时间：0.5143 seconds
+查询执行时间：64.0639 seconds
+查询执行时间：54.9653 seconds
+查询执行时间：141.2359 seconds
+查询执行时间：55.4468 seconds
+查询执行时间：62.7358 seconds
+查询执行时间：64.9906 seconds
+查询执行时间：58.4622 seconds
+查询执行时间：1.5960 seconds
+查询执行时间：64.2732 seconds
+查询执行时间：62.9106 seconds
+查询执行时间：57.6172 seconds
+查询执行时间：0.5750 seconds
+查询执行时间：60.7332 seconds
+查询执行时间：55.0239 seconds
+查询执行时间：60.8579 seconds
+查询执行时间：56.0915 seconds
+查询执行时间：64.2547 seconds
+查询执行时间：0.2444 seconds
+查询执行时间：0.4573 seconds
+查询执行时间：0.1454 seconds
+查询执行时间：0.9331 seconds
+查询执行时间：0.0356 seconds
+查询执行时间：138.9093 seconds
+查询执行时间：54.3291 seconds
+查询执行时间：23.7382 seconds
+查询执行时间：1.1890 seconds
+查询执行时间：60.3261 seconds
+查询执行时间：58.3647 seconds
+查询执行时间：0.4917 seconds
+查询执行时间：59.6587 seconds
+查询执行时间：55.5847 seconds
+查询执行时间：55.3819 seconds
+查询执行时间：62.1538 seconds
+查询执行时间：65.8394 seconds
+查询执行时间：0.5599 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：47.3305 seconds
+QPS：0.0211 queries/second
+平均等待时间：1250.3469 seconds
+sever end time: 1739614985
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '9022', 'user': 'root', 'password': '123456', 'cpu': 24, 'memory': '32g', 'swap': -1}
+container is restart: dingodb_native
+
+container resource limit: dingodb_native
+
+The redundant files in the system have been deleted:
+Restart completed!!!
+
+Process finished with exit code 0

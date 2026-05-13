@@ -1,0 +1,5 @@
+SELECT pi1.info_type_id, pi2.person_id
+FROM person_info pi1
+JOIN person_info pi2 ON pi1.info_type_id = pi2.info_type_id
+WHERE pi2.id BETWEEN 100000 AND 300000
+LIMIT 10;

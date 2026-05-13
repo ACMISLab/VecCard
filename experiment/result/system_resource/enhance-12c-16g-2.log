@@ -1,0 +1,79 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 2, 'timeout': 180}
+start execute queries, concurrency: 2 total: 50 workloads start time: 2025-01-27 22:32:08
+sever start time: 1737988328
+查询执行时间：20.5110 seconds
+查询执行时间：20.5130 seconds
+查询执行时间：22.8725 seconds
+查询执行时间：23.1007 seconds
+查询执行时间：21.9773 seconds
+查询执行时间：22.0385 seconds
+查询执行时间：21.8281 seconds
+查询执行时间：21.7181 seconds
+查询执行时间：44.9745 seconds
+查询执行时间：22.1539 seconds
+查询执行时间：22.2417 seconds
+查询执行时间：22.5170 seconds
+查询执行时间：22.7813 seconds
+查询执行时间：22.2775 seconds
+查询执行时间：22.3294 seconds
+查询执行时间：23.1139 seconds
+查询执行时间：22.4470 seconds
+查询执行时间：21.8912 seconds
+查询执行时间：22.5469 seconds
+查询执行时间：22.3392 seconds
+查询执行时间：22.1530 seconds
+查询执行时间：22.4816 seconds
+查询执行时间：22.4611 seconds
+查询执行时间：21.8461 seconds
+查询执行时间：44.6449 seconds
+查询执行时间：22.7196 seconds
+查询执行时间：22.3629 seconds
+查询执行时间：22.6955 seconds
+查询执行时间：22.2834 seconds
+查询执行时间：22.2094 seconds
+查询执行时间：22.2895 seconds
+查询执行时间：22.3977 seconds
+查询执行时间：22.7991 seconds
+查询执行时间：22.7828 seconds
+查询执行时间：22.2866 seconds
+查询执行时间：22.4766 seconds
+查询执行时间：22.6783 seconds
+查询执行时间：22.0429 seconds
+查询执行时间：21.7841 seconds
+查询执行时间：22.1258 seconds
+查询执行时间：22.3042 seconds
+查询执行时间：22.0919 seconds
+查询执行时间：22.4899 seconds
+查询执行时间：97.0232 seconds
+查询执行时间：49.7447 seconds
+查询执行时间：19.0431 seconds
+查询执行时间：19.0130 seconds
+查询执行时间：19.1999 seconds
+查询执行时间：19.1901 seconds
+查询执行时间：19.0818 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：24.8975 seconds
+QPS：0.0402 queries/second
+平均等待时间：287.1638 seconds
+sever end time: 1737988951
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456', 'cpu': 12, 'memory': '16g', 'swap': -1}
+container is restart: dingodb_enhance
+
+container resource limit: dingodb_enhance
+
+The redundant files in the system have been deleted:
+Restart completed!!!
+
+Process finished with exit code 0
+
+
+metrics_成功率: 1.0
+metrics_失败率: 0.0
+metrics_查询执行时间平均值: 24.8975 seconds
+metrics_QPS: 0.0402 

@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main.py
+{'workload_type': 'middle', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute queries, concurrency: 1 total: 50 workloads start time: 2025-01-24 15:58:19
+sever start time: 1737705499
+查询执行时间：57.3080 seconds
+查询执行时间：67.0525 seconds
+查询执行时间：56.0913 seconds
+查询执行时间：57.0919 seconds
+查询执行时间：56.9697 seconds
+查询执行时间：56.9474 seconds
+查询执行时间：63.6060 seconds
+查询执行时间：56.1321 seconds
+查询执行时间：63.2593 seconds
+查询执行时间：55.9292 seconds
+查询执行时间：57.0316 seconds
+查询执行时间：67.6019 seconds
+查询执行时间：128.6002 seconds
+查询执行时间：56.2284 seconds
+查询执行时间：57.0792 seconds
+查询执行时间：127.4230 seconds
+查询执行时间：56.0757 seconds
+查询执行时间：57.0737 seconds
+查询执行时间：56.9900 seconds
+查询执行时间：128.4368 seconds
+查询执行时间：56.0344 seconds
+查询执行时间：56.8062 seconds
+查询执行时间：57.1199 seconds
+查询执行时间：67.1313 seconds
+查询执行时间：62.3791 seconds
+查询执行时间：56.3412 seconds
+查询执行时间：127.5728 seconds
+查询执行时间：62.9070 seconds
+查询执行时间：56.0218 seconds
+查询执行时间：56.8817 seconds
+查询执行时间：57.1572 seconds
+查询执行时间：128.3283 seconds
+查询执行时间：62.3273 seconds
+查询执行时间：67.0923 seconds
+查询执行时间：56.6222 seconds
+查询执行时间：57.3741 seconds
+查询执行时间：57.2054 seconds
+查询执行时间：57.7800 seconds
+查询执行时间：57.2549 seconds
+查询执行时间：128.5839 seconds
+查询执行时间：127.3914 seconds
+查询执行时间：56.4072 seconds
+查询执行时间：57.5186 seconds
+查询执行时间：128.3677 seconds
+查询执行时间：56.6498 seconds
+查询执行时间：57.2175 seconds
+查询执行时间：57.6145 seconds
+查询执行时间：128.0279 seconds
+查询执行时间：63.6513 seconds
+查询执行时间：127.2750 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：72.6394 seconds
+QPS：0.0138 queries/second
+平均等待时间：1676.8164 seconds
+sever end time: 1737709131
+CPU使用率：13.43055555553289 %
+内存使用量：1285.5625 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '9022', 'user': 'root', 'password': '123456'}
+master result: dingodb_native
+
+container result step1:
+重启完毕
+
+Process finished with exit code 0

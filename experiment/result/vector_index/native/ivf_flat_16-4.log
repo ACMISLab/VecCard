@@ -1,0 +1,73 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 4, 'timeout': 180}
+start execute queries, concurrency: 4 total: 50 workloads start time: 2025-02-15 14:16:38
+sever start time: 1739600199
+查询执行时间：76.1384 seconds
+查询执行时间：78.4211 seconds
+查询执行时间：78.5289 seconds
+查询执行时间：79.0758 seconds
+查询执行时间：85.3968 seconds
+查询执行时间：85.3361 seconds
+查询执行时间：86.1091 seconds
+查询执行时间：0.7558 seconds
+查询执行时间：0.2873 seconds
+查询执行时间：87.5518 seconds
+查询执行时间：86.8041 seconds
+查询执行时间：0.6967 seconds
+查询执行时间：85.8471 seconds
+查询执行时间：87.4694 seconds
+查询执行时间：88.3743 seconds
+查询执行时间：83.8678 seconds
+查询执行时间：85.3372 seconds
+查询执行时间：83.2624 seconds
+查询执行时间：81.7601 seconds
+查询执行时间：0.7670 seconds
+查询执行时间：83.7450 seconds
+查询执行时间：82.7976 seconds
+timeout
+查询执行时间：0.1043 seconds
+查询执行时间：91.1390 seconds
+查询执行时间：93.0769 seconds
+查询执行时间：97.5771 seconds
+查询执行时间：93.8235 seconds
+查询执行时间：92.3975 seconds
+查询执行时间：0.4375 seconds
+查询执行时间：0.5645 seconds
+查询执行时间：0.1053 seconds
+查询执行时间：0.0666 seconds
+查询执行时间：0.0559 seconds
+查询执行时间：92.3478 seconds
+查询执行时间：90.7215 seconds
+查询执行时间：1.6148 seconds
+查询执行时间：1.9141 seconds
+查询执行时间：91.0054 seconds
+查询执行时间：83.9183 seconds
+查询执行时间：0.3181 seconds
+查询执行时间：84.5448 seconds
+查询执行时间：83.8779 seconds
+查询执行时间：83.7067 seconds
+查询执行时间：82.3914 seconds
+timeout
+查询执行时间：0.1781 seconds
+查询执行时间：83.2844 seconds
+查询执行时间：76.7978 seconds
+查询执行时间：75.1114 seconds
+成功率：0.9600
+超时率：0.0400
+total_queries: 48
+平均查询延迟：60.6127 seconds
+QPS：0.0165 queries/second
+平均等待时间：397.2610 seconds
+sever end time: 1739601052
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '9022', 'user': 'root', 'password': '123456', 'cpu': 24, 'memory': '32g', 'swap': -1}
+container is restart: dingodb_native
+
+container resource limit: dingodb_native
+
+The redundant files in the system have been deleted:
+Restart completed!!!
+
+Process finished with exit code 0

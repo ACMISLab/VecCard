@@ -1,0 +1,27 @@
+2.sql: 5.1290 seconds
+3.sql: 7.7707 seconds
+4.sql: 13.8692 seconds
+6.sql: 511.6222 seconds
+7.sql: 44.7228 seconds
+8.sql: 579.5981 seconds
+9.sql: 79.0506 seconds
+10.sql: 2448.6429 seconds
+11.sql: 79.6803 seconds
+12.sql: 52.8375 seconds
+13.sql: 51.3008 seconds
+14.sql: 77.1502 seconds
+15.sql: 79.4283 seconds
+16.sql: 62.9472 seconds
+17.sql: 59.5735 seconds
+18.sql: 51.8259 seconds
+19.sql: 52.8321 seconds
+20.sql: 82.8799 seconds
+21.sql: 83.5052 seconds
+22.sql: 82.5413 seconds
+23.sql: 85.4367 seconds
+24.sql: 45.0977 seconds
+25.sql: 44.2385 seconds
+26.sql: 14.8374 seconds
+27.sql: 18.5353 seconds
+28.sql: 92.5807 seconds
+Average execution time: 184.9090 seconds

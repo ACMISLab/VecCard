@@ -1,0 +1,170 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\main_distributed.py
+{'workload_type': 'mix', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute job, concurrency: 1 total: 50 workloads start time: 2025-03-30 17:19:52
+sever start time: 1743326393
+查询执行时间：65.9849 seconds
+查询执行时间：66.2294 seconds
+查询执行时间：63.8368 seconds
+查询执行时间：74.9130 seconds
+查询执行时间：74.7046 seconds
+查询执行时间：74.7001 seconds
+查询执行时间：76.9450 seconds
+查询执行时间：73.8452 seconds
+查询执行时间：74.7840 seconds
+查询执行时间：64.2477 seconds
+查询执行时间：75.5151 seconds
+查询执行时间：65.8727 seconds
+查询执行时间：75.4343 seconds
+查询执行时间：64.4048 seconds
+查询执行时间：63.1616 seconds
+查询执行时间：63.5748 seconds
+查询执行时间：64.7297 seconds
+查询执行时间：64.4658 seconds
+查询执行时间：75.2796 seconds
+查询执行时间：65.0687 seconds
+查询执行时间：63.8881 seconds
+查询执行时间：75.6263 seconds
+查询执行时间：64.7904 seconds
+查询执行时间：76.8593 seconds
+查询执行时间：74.6523 seconds
+查询执行时间：74.5445 seconds
+查询执行时间：77.8573 seconds
+查询执行时间：75.4763 seconds
+查询执行时间：74.5349 seconds
+查询执行时间：74.6408 seconds
+查询执行时间：65.6593 seconds
+查询执行时间：75.4871 seconds
+查询执行时间：63.2847 seconds
+查询执行时间：75.0785 seconds
+发生错误: 'utf-8' codec can't decode byte 0xa1 in position 7: invalid start byte
+发生错误: Packet sequence number wrong - got 15 expected 1
+查询执行时间：70.1108 seconds
+查询执行时间：64.0957 seconds
+查询执行时间：75.0663 seconds
+发生错误: 'utf-8' codec can't decode byte 0xa8 in position 23: invalid start byte
+发生错误: Packet sequence number wrong - got 17 expected 1
+查询执行时间：79.8320 seconds
+查询执行时间：64.0077 seconds
+查询执行时间：64.7524 seconds
+查询执行时间：63.3140 seconds
+查询执行时间：64.1390 seconds
+查询执行时间：74.6962 seconds
+查询执行时间：73.6088 seconds
+查询执行时间：64.5864 seconds
+查询执行时间：76.7420 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟：70.3267 seconds
+QPS：0.0142 job/second
+平均等待时间：1691.8457 seconds
+sever end time: 1743329778
+An error occurred while querying Prometheus for metric 'cpu_utilization': HTTPConnectionPool(host='127.0.0.1', port=33210): Max retries exceeded with url: http://172.19.101.99:19091/prometheus/api/v1/query_range?query=%28100+-+%28avg+by%28instance%29+%28rate%28node_cpu_seconds_total%7Bmode%3D%22idle%22%7D%5B1m%5D%29%29+%2A+100%29%29&start=1743326368&end=1743329803&step=30s (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF51BD0CB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+Traceback (most recent call last):
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "D:\Program Files\Python312\Lib\http\client.py", line 1314, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "D:\Program Files\Python312\Lib\http\client.py", line 1074, in _send_output
+    self.send(msg)
+  File "D:\Program Files\Python312\Lib\http\client.py", line 1018, in send
+    self.connect()
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001DF51BD0CB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF51BD0CB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=33210): Max retries exceeded with url: http://172.19.101.99:19091/prometheus/api/v1/query_range?query=%28100+-+%28avg+by%28instance%29+%28rate%28node_cpu_seconds_total%7Bmode%3D%22idle%22%7D%5B1m%5D%29%29+%2A+100%29%29&start=1743326368&end=1743329803&step=30s (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF51BD0CB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\utils\prometheus.py", line 50, in fetch_metrics
+    response = requests.get(prometheus_url, params={
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Lib\site-packages\requests\adapters.py", line 694, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPConnectionPool(host='127.0.0.1', port=33210): Max retries exceeded with url: http://172.19.101.99:19091/prometheus/api/v1/query_range?query=%28100+-+%28avg+by%28instance%29+%28rate%28node_cpu_seconds_total%7Bmode%3D%22idle%22%7D%5B1m%5D%29%29+%2A+100%29%29&start=1743326368&end=1743329803&step=30s (Caused by ProxyError('Unable to connect to proxy', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF51BD0CB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\main_distributed.py", line 54, in <module>
+    main()
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\main_distributed.py", line 21, in main
+    dml.select_workload(config, args)
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dml.py", line 309, in select_workload
+    asyncio.run(parallel(config, args))
+  File "D:\Program Files\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "D:\Program Files\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Program Files\Python312\Lib\asyncio\base_events.py", line 664, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dml.py", line 303, in parallel
+    prometheus.get_metrics(start_time - 25, end_time + 25, config)
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\utils\prometheus.py", line 112, in get_metrics
+    instance_data = fetch_metrics(_start_time,_end_time,config)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\utils\prometheus.py", line 72, in fetch_metrics
+    print(f"Request URL: {response.request.url}")
+                          ^^^^^^^^
+UnboundLocalError: cannot access local variable 'response' where it is not associated with a value
+
+Process finished with exit code 1
+
+
+metrics_成功率: 0.92
+metrics_失败率: 0.08
+metrics_查询执行时间平均值: 70.3267 seconds
+metrics_QPS: 0.0142 

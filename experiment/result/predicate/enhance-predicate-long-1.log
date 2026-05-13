@@ -1,0 +1,70 @@
+D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\venv\Scripts\python.exe D:\acmis\AI_4_dingodb\learning-query-optimizer\experiment\dingo\main_enhance.py
+{'workload_type': 'long', 'workload_num': 50, 'concurrency': 1, 'timeout': 180}
+start execute queries, concurrency: 1 total: 50 workloads start time: 2025-01-23 22:03:08
+sever start time: 1737640988
+查询执行时间：18.1344 seconds
+查询执行时间：17.7191 seconds
+查询执行时间：17.8208 seconds
+查询执行时间：17.7896 seconds
+查询执行时间：17.9467 seconds
+查询执行时间：17.7356 seconds
+查询执行时间：17.8699 seconds
+查询执行时间：17.8823 seconds
+查询执行时间：17.6765 seconds
+查询执行时间：17.9149 seconds
+查询执行时间：17.8060 seconds
+查询执行时间：17.8153 seconds
+查询执行时间：17.9499 seconds
+查询执行时间：17.8432 seconds
+查询执行时间：17.7641 seconds
+查询执行时间：17.7700 seconds
+查询执行时间：17.8131 seconds
+查询执行时间：17.8190 seconds
+查询执行时间：17.7029 seconds
+查询执行时间：17.7633 seconds
+查询执行时间：17.8238 seconds
+查询执行时间：17.6910 seconds
+查询执行时间：17.6964 seconds
+查询执行时间：17.9383 seconds
+查询执行时间：17.7535 seconds
+查询执行时间：17.7138 seconds
+查询执行时间：17.8505 seconds
+查询执行时间：17.9511 seconds
+查询执行时间：17.4901 seconds
+查询执行时间：17.8526 seconds
+查询执行时间：17.7273 seconds
+查询执行时间：17.7193 seconds
+查询执行时间：17.7204 seconds
+查询执行时间：17.6968 seconds
+查询执行时间：17.8240 seconds
+查询执行时间：17.7386 seconds
+查询执行时间：17.9729 seconds
+查询执行时间：17.7442 seconds
+查询执行时间：17.7144 seconds
+查询执行时间：17.8062 seconds
+查询执行时间：17.9542 seconds
+查询执行时间：17.7258 seconds
+查询执行时间：17.7365 seconds
+查询执行时间：17.8578 seconds
+查询执行时间：17.7896 seconds
+查询执行时间：17.9271 seconds
+查询执行时间：17.6641 seconds
+查询执行时间：17.8649 seconds
+查询执行时间：17.7856 seconds
+查询执行时间：17.7096 seconds
+成功率：1.0000
+超时率：0.0000
+total_queries: 50
+平均查询延迟(包含查询失败)：17.7995 seconds
+总QPS(包含查询失败)：0.0562 queries/second
+平均等待时间(包含查询失败)：436.3982 seconds
+sever end time: 1737641878
+CPU使用率：37.131719398173 %
+内存使用量：339.75390625 Mb
+
+restart system and database ....
+{'host': '172.19.101.152', 'port': '22', 'user': 'zqcc', 'password': '32194878'}
+{'host': '172.19.101.152', 'port': '8022', 'user': 'root', 'password': '123456'}
+master result: dingodb_enhance
+
+container result step1:
